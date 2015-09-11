@@ -8,12 +8,17 @@ This program has two functions:
 
 
 ** Example csv input for Rep Locator **
-\n 457 Nirvana Lane, Teen Spirit, 90001
-\n 9636 Boogie Drive, Getting Down, 30033
+
+457 Nirvana Lane, Teen Spirit, 90001
+
+9636 Boogie Drive, Getting Down, 30033
 
 
 **Example csv input for Inmate Locator **
-\n RT3456
-\n E4567
 
-\n\nDiscalimer: These are all made up.*
+RT3456
+
+E4567
+
+
+Discalimer: These are all made up.*
